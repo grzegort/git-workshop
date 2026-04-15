@@ -197,14 +197,14 @@ On GitHub, branch `main` should now contain the `weekend-plan.txt` changes.
 ## Part 7 - Final check
 
 You have completed the lab if you can answer **yes** to all of these:
-- I opened a Git repository in VS Code.
-- I made a change locally.
-- I staged and committed that change.
-- I pushed a commit to GitHub.
-- I changed a file in GitHub and pulled it into VS Code.
-- I created a branch.
-- I committed on the branch.
-- I merged the branch into `main`.
+- I opened a Git repository in VS Code. - yes
+- I made a change locally. - yes
+- I staged and committed that change. - yes
+- I pushed a commit to GitHub. - yes
+- I changed a file in GitHub and pulled it into VS Code. - yes
+- I created a branch. - yes
+- I committed on the branch. - yes
+- I merged the branch into `main`. - yes
 
 ---
 
