@@ -7,3 +7,7 @@ This repository is used for a beginner Git workshop.
 - `profile.txt`
 - `hobby.txt`
 - `weekend-plan.txt`
+
+## Student information
+Name: Grzegorz Tabor
+Group: Grzegorz Tabor.
